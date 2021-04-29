@@ -24,6 +24,7 @@
 ***
 #### 2) Structure of the repository:
 ***
+```
 .
 |-- README.md
 |-- main.tf
@@ -54,6 +55,7 @@
 |-- remote-state.tf
 |-- terraform.tfvars
 `-- variables.tf
+```
 ***
 #### 3) Description of the modules:
 ***
@@ -70,7 +72,8 @@
 ***
 #### 5) Resources that will be created:
 ***
-```Terraform used the selected providers to generate the following execution plan. Resource actions are indicated with the following symbols:
+```
+Terraform used the selected providers to generate the following execution plan. Resource actions are indicated with the following symbols:
   + create
  <= read (data resources)
 
